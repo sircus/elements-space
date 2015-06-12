@@ -1,0 +1,16 @@
+
+// Converted Variables
+
+$elementsSpace-marginTop: 0 !default;
+$elementsSpace-marginBottom: $g-space !default;
+
+// Custom Media Query Variables
+
+
+/*
+ * sircus-elements-space
+ ================================================== */
+p, ul, ol, dl, hr, table, fieldset, figure, pre {
+  margin-top:$elementsSpace-marginTop;
+  margin-bottom:$elementsSpace-marginBottom;
+}

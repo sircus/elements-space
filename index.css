@@ -1,0 +1,12 @@
+:root {
+  --elementsSpace-marginTop: 0;
+  --elementsSpace-marginBottom: var(--g-space);
+}
+
+/*
+ * sircus-elements-space
+ ================================================== */
+p, ul, ol, dl, hr, table, fieldset, figure, pre {
+  margin-top:var(--elementsSpace-marginTop);
+  margin-bottom:var(--elementsSpace-marginBottom);
+}
