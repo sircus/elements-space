@@ -12,7 +12,7 @@
 > use npm:
 
 ```bash
-$ npm install sircus-elements-space && npm install sircus-global-proprety
+$ npm install sircus-elements-space sircus-global-proprety
 ```
 
 ## Usage
