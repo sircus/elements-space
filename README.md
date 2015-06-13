@@ -21,8 +21,8 @@ $ npm install sircus-elements-space && npm install sircus-global-proprety
 
 input.css
 ```css
-@import "sircus-global-proprety";
 @import "sircus-elements-space";
+@import "sircus-global-proprety";
 ```
 
 > use sass:
