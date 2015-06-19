@@ -37,13 +37,13 @@ input.scss
 <p>...</p>
 <ul>...</ul>
 <ol>...</ol>
+<dl>...</dl>
 <hr>
 <table>...</table>
 <fieldset>...</fieldset>
 <figure>...</figure>
 <pre>...</pre>
 ```
-
 
 ## Contributing
 
