@@ -1,13 +1,14 @@
 {
   "name": "sircus-elements-space",
-  "description": "A base elements spacing Module for Sircus.",
+  "description": "css base elements spacing Module for Sircus.",
   "version": "0.0.1",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalability",
-    "maintainability",
-    "designability",
-    "css"
+    "scalabe",
+    "design",
+    "css",
+    "cssnext",
+    "rwd"
   ],
   "author": {
     "name": "Yasuyuki Enomoto",
@@ -22,7 +23,7 @@
     "build": "css2scss ./index.css ./_converted.scss"
   },
   "dependencies": {
-    "sircus-global-property": "^0.0.1"
+    "sircus-global-property": "^0.1.2"
   },
   "devDependencies": {
     "sircus-process-css2scss": "^0.2.0"
